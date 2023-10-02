@@ -20,3 +20,12 @@
 
 ## Используемые библиотеки
 torch, torchvision, PIL, ultralytics, albumentations
+
+## Итоги
+| <font size='5'>Модель</font> |  <font size='5'>MAP 50 | <font size='5'> MAP 50-95 |  <font size='5'>Время обработки на GPU|
+|:--------:|:--------:|:--------:|:--------:|
+|  <font size='3'>Faster-RCNN    | <font size='3'> 0.9868 | <font size='3'> 0.8173   |  <font size='3'>~ 125 мс  |
+|   <font size='3'> RetinaNet    | <font size='3'>0.9979   |<font size='3'> 0.8713   |<font size='3'> ~ 130 мс  |
+|   <font size='3'> YOLOv8    | <font size='3'>0.9950   |<font size='3'> 0.9080   |<font size='3'> ~ 37 мс  |
+
+
