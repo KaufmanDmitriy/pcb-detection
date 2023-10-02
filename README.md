@@ -13,5 +13,10 @@
 * *VD* - диод
 * *RV* - подстроечный резистор
 
+Использованные модели:
+- Faster-RCNN
+- RetinaNet
+- YOLOv8m
+
 ## Используемые библиотеки
 torch, torchvision, PIL, ultralytics, albumentations
