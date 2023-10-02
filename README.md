@@ -13,5 +13,5 @@
 * *VD* - диод
 * *RV* - подстроечный резистор
 
-№№ Используемые библиотеки
+## Используемые библиотеки
 torch, torchvision, PIL, ultralytics, albumentations
