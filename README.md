@@ -12,3 +12,6 @@
 * *A* - устройства и интегральные схемы
 * *VD* - диод
 * *RV* - подстроечный резистор
+
+№№ Используемые библиотеки
+torch, torchvision, PIL, ultralytics, albumentations
